@@ -1,0 +1,18 @@
+{
+  "id": "END_-11776,60,-16336",
+  "name": "END",
+  "icon": "waypoint-normal.png",
+  "x": -11776,
+  "y": 60,
+  "z": -16336,
+  "r": 61,
+  "g": 1,
+  "b": 164,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

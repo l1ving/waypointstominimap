@@ -1,0 +1,19 @@
+[768, 60, -13776]
+{
+  "id": "END_[768, 60, -13776]",
+  "name": "END",
+  "icon": "waypoint-normal.png",
+  "x": 768,
+  "y": 60,
+  "z": -13776,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

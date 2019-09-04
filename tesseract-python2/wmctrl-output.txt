@@ -1,0 +1,9 @@
+0x01e0000a  0 usr-XPS-15-9550 Desktop
+0x02a00a96  0 usr-XPS-15-9550 usr@usr-XPS-15-9550: ~/Downloads
+0x02800007  0 usr-XPS-15-9550 tesseract-python2
+0x02c00003  0 usr-XPS-15-9550 ~/Downloads/tesseract-python2/xprop-output.txt - Sublime Text (UNREGISTERED)
+0x02e0003e  0 usr-XPS-15-9550 Amidst v4.3-beta5 - Selected Profile: Latest version - Minecraft Version 1.12.2 (recognised: 1.12.2)
+0x02e0025a  0 usr-XPS-15-9550 Go to
+0x03200010  0 usr-XPS-15-9550 14.04 - Get Window Title or Application Name with Python - Ask Ubuntu - Mozilla Firefox
+0x02a1adbd  0 usr-XPS-15-9550 usr@usr-XPS-15-9550: ~/Downloads/tesseract-python/bin
+0x02a1e007  0 usr-XPS-15-9550 usr@usr-XPS-15-9550: ~/Downloads/tesseract-python2
