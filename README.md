@@ -1,5 +1,5 @@
 # waypointstominimap
-Get's waypoints and converts it to a readable format for minimap mods
+Gets waypoints and converts it to a readable format for minimap mods
 
 ## Usage
 
