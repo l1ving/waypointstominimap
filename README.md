@@ -1,6 +1,8 @@
 # waypointstominimap
 Gets waypoints and converts it to a readable format for minimap mods
 
+## This project is archived as it cannot be maintained
+
 ## Usage
 
 The jar is a program for getting the waypoints.
